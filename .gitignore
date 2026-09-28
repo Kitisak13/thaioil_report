@@ -5,6 +5,9 @@
 thaioil_reports/
 *.pdf
 
+# CSV database files
+*.csv
+
 # Scratch / temporary text files
 sample_*.txt
 daily_text.txt
