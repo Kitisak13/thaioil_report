@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Raw PDF reports directory (contains ~1500 PDF files, ~286MB)
+thaioil_reports/
+*.pdf
+
+# Scratch / temporary text files
+sample_*.txt
+daily_text.txt
+weekly_text*.txt
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
